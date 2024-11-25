@@ -1,0 +1,12 @@
+{
+  "name": "0x07-react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "description": "0x07. React Redux action creator+normalizr Front-end JavaScript ES6 React  Weight: 1  Project will start Nov 25, 2024 6:00 AM, must end by Nov 29, 2024 6:00 AM  Manual QA review must be done (request it when you are done with the project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
